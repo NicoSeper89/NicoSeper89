@@ -19,4 +19,6 @@ CorelDRAW - Photoshop - Illustrator</p>
 
 [![NicoSeper89 GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoSeper89)](https://github.com/NicoSeper89/github-readme-stats)
 
-
+<h1 >¡Contactame!</h1>
+<a href="https://www.linkedin.com/in/nicolassepertino/">LinkedIn</a>
+<a href="mailto:nicosepertino@hotmail.com">Nicosepertino@hotmail.com</a>
