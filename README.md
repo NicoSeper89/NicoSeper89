@@ -17,5 +17,6 @@ CorelDRAW - Photoshop - Illustrator</p>
 </br>
 
 [![NicoSeper89 GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoSeper89)](https://github.com/NicoSeper89/github-readme-stats)
+![NicoSeper89 GitHub stats](https://github-readme-stats.vercel.app/api?username=NicoSeper89&hide=contribs,prs)
 
 <img src="./banner2.jpeg" alt="banner2" />
