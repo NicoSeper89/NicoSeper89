@@ -1,16 +1,20 @@
-### Hi there 👋
+<img src="./banner1.jpeg" alt="banner1"/>
+</br>
+</br>
+<h1 >¿Quién soy?</h1>
 
-<!--
-**NicoSeper89/NicoSeper89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>Soy desarrolador full stack graduado en el bootcamp de soyHenry. Desde chico me apasiona la tecnologia y todo lo que tenga que ver con la computacion. Detallista y exigente en los trabajos o proyectos en los que participo. Me siento muy comodo trabajando en grupo, me adapto a todo tipo de ambiente y me gusta colaborar con los demas y tambien pedir ayuda si la necesito. Siempre estoy predispuesto al aprendizaje continuo.</p>
 
-Here are some ideas to get you started:
+<h1 >¿Que tecnologias domino?</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Html5 - Css3 - JavaScript
+React - Redux - ChakraUI - Bootstrap
+NodeJS - Express - Sequelize - PostgreSQL
+Scrum - Git - GitHub - GitFlow
+UML - Modelado de Sistemas de Software 
+CorelDRAW - Photoshop - Illustrator</p>
+
+<h1 >¿Qué objetivos y proyectos tengo?</h1>
+<p>Mi principal meta es poder conseguir un empleo de programador de forma remota, aunque si se abren nuevos horizontes en algún otro lugar, estoy totalmente abierto a nuevos cambios. Tengo una personalidad inquieta que me lleva a estar en constante aprendizaje. Por lo que busco siempre tener un nivel de conocimientos cada vez mayor para poder conseguir el empleo que tanto deseo.</p>
+
+<img src="./banner2.jpeg" alt="banner2" />
