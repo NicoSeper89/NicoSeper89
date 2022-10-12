@@ -21,4 +21,5 @@ CorelDRAW - Photoshop - Illustrator</p>
 
 <h1 >¡Contactame!</h1>
 <a href="https://www.linkedin.com/in/nicolassepertino/">LinkedIn</a>
-<a href="mailto:nicosepertino@hotmail.com">Nicosepertino@hotmail.com</a>
+<br>
+<p >Email: Nicosepertino@hotmail.com</p>
