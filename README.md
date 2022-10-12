@@ -1,5 +1,4 @@
 <img src="./banner1.jpeg" alt="banner1"/>
-</br>
 <h1 >¿Quién soy?</h1>
 
 <p>Soy desarrolador full stack graduado en el bootcamp de soyHenry. Desde chico me apasiona la tecnologia y todo lo que tenga que ver con la computacion. Detallista y exigente en los trabajos o proyectos en los que participo. Me siento muy comodo trabajando en grupo, me adapto a todo tipo de ambiente y me gusta colaborar con los demas y tambien pedir ayuda si la necesito. Siempre estoy predispuesto al aprendizaje continuo.</p>
